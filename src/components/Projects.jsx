@@ -4,6 +4,14 @@ import React from 'react';
 
 const projects = [
   {
+    title: 'Wanderlust',
+    description: 'A beautiful and interactive travel and accommodation platform with a modern UI and seamless user experience.',
+    tags: ['React', 'Node.js', 'Express', 'MongoDB'],
+    gradient: 'from-[#FF416C] to-[#FF4B2B]',
+    liveDemo: 'https://wanderlustayush.netlify.app/',
+    github: 'https://github.com/itzayush7/Wanderlust'
+  },
+  {
     title: 'Excel Analytics Platform',
     description: 'An advanced data plotting tool seamlessly converting CSV/Excel files into interactive dashboards. Efficiently handles 100,000+ rows, featuring Chart.js visualizations, role-based access, and 60% faster database queries.',
     tags: ['React', 'Chart.js', 'JWT Auth', 'MongoDB', 'Node.js'],
